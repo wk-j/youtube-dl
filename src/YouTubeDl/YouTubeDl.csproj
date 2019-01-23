@@ -7,6 +7,7 @@
         <ToolCommandName>wk-yotube-dl</ToolCommandName>
         <Version>0.1.0</Version>
         <PackageId>wk.YouTubeDl</PackageId>
+        <LangVersion>7.3</LangVersion>
     </PropertyGroup>
 
     <ItemGroup>
